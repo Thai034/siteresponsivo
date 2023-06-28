@@ -57,7 +57,7 @@ header, article, section .imagem, section {
     margin: 0px 0px 15px 5px;
 }
 
-nav ul il{
+nav ul li{
     list-style: none;
     line-height: 32px;
     border-bottom: 1px solid #ccc;
